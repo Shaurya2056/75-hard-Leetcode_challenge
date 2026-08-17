@@ -1,2 +1,2 @@
-# 75-hard-Leetcode_challenge
+# LEETCODE SOLS
 I am here to improve my DSA with daily practice.
